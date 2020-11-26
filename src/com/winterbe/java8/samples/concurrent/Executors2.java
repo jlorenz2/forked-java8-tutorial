@@ -8,7 +8,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.TimeoutException;
 
 /**
- * @author Benjamin Winterberg
+ * @author Benjamin Winterberg cccccc
  */
 public class Executors2 {
 
